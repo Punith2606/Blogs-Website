@@ -1,1 +1,2 @@
-# Blogs-Website
+# Blogging-Website
+Bharat Intern Blog Website
